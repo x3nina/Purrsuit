@@ -1,10 +1,12 @@
 # Purrsuit
 Projekt pri predmetu Računalniška Grafika (FRI VSŠ 2. letnik)
 
-Deployed at [stinkibinki.github.io/Purrsuit](https://stinkibinki.github.io/Purrsuit/)
+Deployed at [x3nina.github.io/Purrsuit](https://x3nina.github.io/Purrsuit/)
 
 ## Zagon
-`python -m http.server 3000`
+```
+python -m http.server 3000
+```
 
 ## WebGPU Docs
 https://webgpufundamentals.org/
